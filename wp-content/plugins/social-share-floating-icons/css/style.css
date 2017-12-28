@@ -1,0 +1,1220 @@
+@import url(https://fonts.googleapis.com/css?family=Bitter);
+#wpssfi-floating-icons-control{
+    margin-left: 430px;
+    margin-top: -7px;
+    border-radius: 5px;
+}
+#wpssfi-posts-icons-control{
+    margin-left: 430px;
+    margin-top: -7px;
+    border-radius: 5px;
+}
+#wpssfi-floating-position-selection-tab, #wpssfi-post-icons-selection-tab{
+    width: 100%;
+    display: inline-block;
+    height: 25px;
+    padding: 10px;
+    line-height: 25px;
+    background: #f6f6f6;
+    border-bottom: 1px solid #c7c7c7;
+}
+#wpssfi-margin-top-tf , #wpssfi-margin-between-tf, #wpssfi-icon-size-tf{
+    width: 38px;
+}
+#wpsssfi-margin-top-selection-tab{
+    display: inline-block;
+}
+#wpssfi-icon-settings-help-balloon{
+    width: 35%;
+    background: #f6f6f6;
+    padding: 20px;
+    text-align: center;
+    float: right;
+    margin-right: -11px;
+}
+#wpssfi-social-icon-settings-selection div{
+    display: inline-block;
+    width: 30%;
+}
+#wpssfi-social-icon-settings-selection{
+    display: inline-block;
+    width: 60%;
+}
+#wpssfi-social-icon-themes-selection div{
+    display: inline-block !important;
+    width: 27% !important;
+    padding: 10px !important;
+    margin: 10px !important;
+    box-shadow: 0px 0px 3px #c5c5c5 !important;
+}
+#wpssfi-social-icon-themes-selection{
+    display: inline-block !important;
+    width: 100% !important;
+}
+#wpssfi-themes-settings-tab{
+    background: white;
+    font-size: 15px;
+    padding: 0;
+}
+#wpssfi-floating-wrapper{
+    width: 60%;
+    display: inline-block;
+}
+#wpssfi-starters-tagline{
+    margin: 0;
+    font-size: 21px;
+    margin-top: -10px;
+    margin-bottom: 5px;
+}
+#wpssfi-1click-settings-tab p{
+    font-weight: bold;
+}
+#wpssfi-social-network-selection{
+    display: block;
+    height: 197px;
+    position: relative;
+    width: 60%;
+}
+#wpssfi-social-network-selection div{
+    display: inline-block;
+    width: 10%;
+    margin-top: 28px;
+    margin-left: 55px;
+}
+#wpssfi-social-help-balloon{
+    width: 35%;
+    background: #f6f6f6;
+    padding: 20px;
+    text-align: center;
+    float: right;
+    margin-top: -207px;
+    margin-right: -11px;
+}
+#wpssfi-floating-help-balloon{
+    width: 35%;
+    background: #f6f6f6;
+    padding: 20px;
+    text-align: center;
+    float: right;
+    margin-right: -11px;
+}
+.wpssfi-floating-selection-checkbox{
+    left:89px;
+    width: 28px !important;
+    margin-left: 95px !important;
+    margin-top: 0px !important;
+    border-radius: 50% !important;
+}
+#wpssfi-main-container .submit{
+    margin: 0;
+    background: white;
+    padding: 20px;
+}
+#wpssfi-floating-position-selection div, #wpssfi-post-icons-selection div{
+    width: 30%;
+    display: inline-block;
+    margin-top: 0 auto;
+}
+#wpssfi-post-icons-wrapper{
+    width: 60%;
+    display: inline-block;
+}
+#wpssfi-post-icons-selection{
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    padding: 9px;
+    border: 1px solid #efefef;
+    border-top: none;
+    padding-top: 29px;
+    padding-bottom: 35px;
+}
+#wpssfi-floating-position-selection{
+    text-align: center;
+    height: 170px;
+    padding-top: 20px;
+    width: 100%;
+    display: inline-block;
+    padding: 9px;
+    border: 1px solid #efefef;
+    border-top: none;
+}
+.wpssfi-social-selection-checkbox{
+    width: 27px !important;
+    margin-left: 11px !important;
+    margin-top: 0px !important;
+    border-radius: 5px !important;
+}
+#talkbubble {
+    width: 120px;
+    height: 80px;
+    background: red;
+    position: relative;
+    -moz-border-radius:    10px;
+    -webkit-border-radius: 10px;
+    border-radius:         10px;
+}
+#talkbubble:before {
+    content:"";
+    position: absolute;
+    right: 100%;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-right: 26px solid red;
+    border-bottom: 13px solid transparent;
+}
+
+#wpssfi-1click-settings-tab{
+    display: inline-block;
+    margin: 11px;
+    position: absolute;
+    right: 13px;
+    width: 400px;
+    background: #f6f6f6;
+    border-radius: 3px;
+    padding: 20px;
+    text-align: center;
+}
+.one-click-button {
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 19px;
+    background: #2aa1c0;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    box-shadow: none;
+    border: none;
+    cursor: pointer;
+    outline:none;
+}
+
+.one-click-button:hover {
+    background: #238ca6;
+    text-decoration: none;
+
+}
+.control-group {
+    display: block;
+    height: 40px;
+    margin: 10px;
+    text-align: left;
+    vertical-align: top;
+    background: #fff;
+}
+.control {
+    font-size: 18px;
+    position: relative;
+    display: block;
+    margin-bottom: 15px;
+    padding-left: 30px;
+    cursor: pointer;
+}
+.control input {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+.control__indicator {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    width: 28px;
+    height: 28px;
+    background: #e6e6e6;
+}
+.control--radio .control__indicator {
+    border-radius: 50%;
+}
+/* Hover and focus states */
+.control:hover input ~ .control__indicator,
+.control input:focus ~ .control__indicator {
+    background: #ccc;
+}
+
+/* Checked state */
+.control input:checked ~ .control__indicator {
+    background: #2aa1c0;
+}
+
+/* Hover state whilst checked */
+.control:hover input:not([disabled]):checked ~ .control__indicator,
+.control input:checked:focus ~ .control__indicator {
+    background: #0e647d;
+}
+
+/* Disabled state */
+.control input:disabled ~ .control__indicator {
+    pointer-events: none;
+    opacity: .6;
+    background: #e6e6e6;
+}
+
+/* Check mark */
+.control__indicator:after {
+    position: absolute;
+    display: none;
+    content: '';
+}
+
+/* Show check mark */
+.control input:checked ~ .control__indicator:after {
+    display: block;
+}
+
+/* Checkbox tick */
+.control--checkbox .control__indicator:after {
+    top: 3px;
+    left: 9px;
+    width: 7px;
+    height: 14px;
+    transform: rotate(45deg);
+    border: solid #fff;
+    border-width: 0 2px 2px 0;
+}
+#wpssfi-enable-plugin{
+    font-size: 22px;
+    padding-left: 0px;
+}
+#wpssfi-enable-plugin-control{
+    margin-left: 430px;
+    margin-top: -7px;
+    border-radius: 5px;
+}
+/* Disabled tick colour */
+.control--checkbox input:disabled ~ .control__indicator:after {
+    border-color: #7b7b7b;
+}
+
+/* Radio button inner circle */
+.control--radio .control__indicator:after {
+    top: 8px;
+    left: 8px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #fff;
+}
+
+/* Disabled circle colour */
+.control--radio input:disabled ~ .control__indicator:after {
+    background: #7b7b7b;
+}
+#wpssfi-main-container{
+    font-family: 'Bitter', serif;
+    -webkit-box-shadow: 0px 0px 1px 1px rgba(0,0,0,0.07);
+    -moz-box-shadow: 0px 0px 1px 1px rgba(0,0,0,0.07);
+    box-shadow: 0px 0px 1px 1px rgba(0,0,0,0.07);
+    width: 99%;
+    display: block;
+    margin-top: 20px;
+    background:white;
+}
+#wpssfi-settings-header-tab{
+    height: 30px;
+    padding: 20px;
+    background-color: #f6f6f6;
+    line-height: 30px;
+    font-size: 19px;
+    border-bottom: 1px solid #c7c7c7;
+}
+#wpssfi-settings-tab{
+    padding: 20px;
+    background: white;
+    font-size: 15px;
+}
+/* Style the buttons that are used to open and close the accordion panel */
+button.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+.theme1-facebook{
+    background-image: url('../images/facebook.png');
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+button.accordion.active, button.accordion:hover {
+    background-color: #ddd;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+div.panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+}
+
+/* The "show" class is added to the accordion panel when the user clicks on one of the buttons. This will show the panel content */
+div.panel.show {
+    display: block !important;
+}
+
+div.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.6s ease-in-out;
+    opacity: 0;
+}
+
+div.panel.show {
+    opacity: 1;
+    max-height: 10000px; /* Whatever you like, as long as its more than the height of the content (on all screen sizes) */
+}
+
+button.accordion:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+}
+
+button.accordion.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+#description-para-1 {
+    font-size: 20px;
+}
+
+#wpsfb-checkbox-fb,#wpsfb-checkbox-gp,#wpsfb-checkbox-pin,#wpsfb-checkbox-linked, #wpsfb-checkbox-tw {
+    height: 30px;
+    width: 30px;
+    margin-right: 15px;
+    margin-top: -42px;
+}
+.wpsfb-label-feed {
+    font-size: 23px;
+    display: inline-block;
+    margin-top: -38px;
+    margin-left: 8px;
+
+}
+
+.wpsfb-theme-logo {
+    height: 50px;
+    width: 50px;
+}
+
+.wpsfb-social-templates {
+    height:;
+    margin-bottom: 3px;
+    padding-bottom: 20px;
+    width: 70px;
+    float: left;
+}
+
+#wpsfb-badge-radio, #wpsfb-crystal-radio,#wpsfb-default-radio, #wpsfb-glossy-radio, #wpsfb-official-radio, #wpsfb-shaded-dark-radio, #wpsfb-shaded-light-radio, #wpsfb-stitched-radio, #wpsfb-thin-radio, #wpsfb-theme-16-radio,
+#wpsfb-theme-17-radio, #wpsfb-theme-18-radio, #wpsfb-theme-19-radio, #wpsfb-theme-20-radio, {
+    margin-right: 25px;
+    margin-left: 20px;
+    margin-top: -43px;
+}
+
+#wpsfb-floating-icon-theme {
+    position: fixed;
+   
+    z-index: 99999999999;
+    top: 150px;
+}
+
+
+.theme1-facebook-icon {
+    background-image: url('../images/t1-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme1-twitter-icon {
+    background-image: url('../images/t1-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme1-google-icon {
+    background-image: url('../images/t1-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme1-pinterest-icon {
+    background-image: url('../images/t1-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme1-linkedin-icon {
+    background-image: url('../images/t1-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme2-facebook-icon {
+    background-image: url('../images/t2-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme2-twitter-icon {
+    background-image: url('../images/t2-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme2-google-icon {
+    background-image: url('../images/t2-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme2-pinterest-icon {
+    background-image: url('../images/t2-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme2-linkedin-icon {
+    background-image: url('../images/t2-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+
+.theme3-facebook-icon {
+    background-image: url('../images/t3-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme3-twitter-icon {
+    background-image: url('../images/t3-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme3-google-icon {
+    background-image: url('../images/t3-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme3-pinterest-icon {
+    background-image: url('../images/t3-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme3-linkedin-icon {
+    background-image: url('../images/t3-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme4-facebook-icon {
+    background-image: url('../images/t4-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme4-twitter-icon {
+    background-image: url('../images/t4-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme4-google-icon {
+    background-image: url('../images/t4-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme4-pinterest-icon {
+    background-image: url('../images/t4-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme4-linkedin-icon {
+    background-image: url('../images/t4-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+
+.theme5-facebook-icon {
+    background-image: url('../images/t5-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme5-twitter-icon {
+    background-image: url('../images/t5-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme5-google-icon {
+    background-image: url('../images/t5-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme5-pinterest-icon {
+    background-image: url('../images/t5-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme5-linkedin-icon {
+    background-image: url('../images/t5-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+
+.theme6-facebook-icon {
+    background-image: url('../images/t6-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme6-twitter-icon {
+    background-image: url('../images/t6-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme6-google-icon {
+    background-image: url('../images/t6-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme6-pinterest-icon {
+    background-image: url('../images/t6-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme6-linkedin-icon {
+    background-image: url('../images/t6-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+
+.theme7-facebook-icon {
+    background-image: url('../images/t7-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme7-twitter-icon {
+    background-image: url('../images/t7-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme7-google-icon {
+    background-image: url('../images/t7-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme7-pinterest-icon {
+    background-image: url('../images/t7-pinterest.png');
+    background-size: 50px;
+    width: 0px;
+    height: 0px;
+    padding-left: 50px;
+    padding-top: 50px;
+    background-repeat: no-repeat;
+}
+.theme7-linkedin-icon {
+    background-image: url('../images/t7-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme8-facebook-icon {
+    background-image: url('../images/t8-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme8-twitter-icon {
+    background-image: url('../images/t8-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme8-google-icon {
+    background-image: url('../images/t8-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme8-pinterest-icon {
+    background-image: url('../images/t8-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme8-linkedin-icon {
+    background-image: url('../images/t8-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme9-facebook-icon {
+    background-image: url('../images/t9-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme9-twitter-icon {
+    background-image: url('../images/t9-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme9-google-icon {
+    background-image: url('../images/t9-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme9-pinterest-icon {
+    background-image: url('../images/t9-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme9-linkedin-icon {
+    background-image: url('../images/t9-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme10-facebook-icon {
+    background-image: url('../images/t10-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme10-twitter-icon {
+    background-image: url('../images/t10-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme10-google-icon {
+    background-image: url('../images/t10-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme10-pinterest-icon {
+    background-image: url('../images/t10-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme10-linkedin-icon {
+    background-image: url('../images/t10-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme11-facebook-icon {
+    background-image: url('../images/t11-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme11-twitter-icon {
+    background-image: url('../images/t11-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme11-google-icon {
+    background-image: url('../images/t11-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme11-pinterest-icon {
+    background-image: url('../images/t11-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme11-linkedin-icon {
+    background-image: url('../images/t11-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme12-facebook-icon {
+    background-image: url('../images/t12-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme12-twitter-icon {
+    background-image: url('../images/t12-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme12-google-icon {
+    background-image: url('../images/t12-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme12-pinterest-icon {
+    background-image: url('../images/t12-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme12-linkedin-icon {
+    background-image: url('../images/t12-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme13-facebook-icon {
+    background-image: url('../images/t13-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme13-twitter-icon {
+    background-image: url('../images/t13-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme13-google-icon {
+    background-image: url('../images/t13-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme13-pinterest-icon {
+    background-image: url('../images/t13-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme13-linkedin-icon {
+    background-image: url('../images/t13-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme14-facebook-icon {
+    background-image: url('../images/t14-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme14-twitter-icon {
+    background-image: url('../images/t14-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme14-google-icon {
+    background-image: url('../images/t14-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme14-pinterest-icon {
+    background-image: url('../images/t14-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme14-linkedin-icon {
+    background-image: url('../images/t14-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme15-facebook-icon {
+    background-image: url('../images/t15-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme15-twitter-icon {
+    background-image: url('../images/t15-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme15-google-icon {
+    background-image: url('../images/t15-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme15-pinterest-icon {
+    background-image: url('../images/t15-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme15-linkedin-icon {
+    background-image: url('../images/t15-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme16-facebook-icon {
+    background-image: url('../images/t16-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme16-twitter-icon {
+    background-image: url('../images/t16-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme16-google-icon {
+    background-image: url('../images/t16-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme16-pinterest-icon {
+    background-image: url('../images/t16-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme16-linkedin-icon {
+    background-image: url('../images/t16-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme17-facebook-icon {
+    background-image: url('../images/t17-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme17-twitter-icon {
+    background-image: url('../images/t17-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme17-google-icon {
+    background-image: url('../images/t17-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme17-pinterest-icon {
+    background-image: url('../images/t17-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme17-linkedin-icon {
+    background-image: url('../images/t17-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme18-facebook-icon {
+    background-image: url('../images/t18-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme18-twitter-icon {
+    background-image: url('../images/t18-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme18-google-icon {
+    background-image: url('../images/t18-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme18-pinterest-icon {
+    background-image: url('../images/t18-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme18-linkedin-icon {
+    background-image: url('../images/t18-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme19-facebook-icon {
+    background-image: url('../images/t19-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme19-twitter-icon {
+    background-image: url('../images/t19-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme19-google-icon {
+    background-image: url('../images/t19-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme19-pinterest-icon {
+    background-image: url('../images/t19-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme19-linkedin-icon {
+    background-image: url('../images/t19-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme20-facebook-icon {
+    background-image: url('../images/t20-facebook.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme20-twitter-icon {
+    background-image: url('../images/t20-twitter.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme20-google-icon {
+    background-image: url('../images/t20-google.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+.theme20-pinterest-icon {
+    background-image: url('../images/t20-pinterest.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+.theme20-linkedin-icon {
+    background-image: url('../images/t20-linkedin.png');
+    height: 50px;
+    width: 50px;
+    background-size: 50px;
+}
+
+
+.accordion h3, .accordion h2, #wpsfb-social-button h2{
+    background: #079C8F;
+    margin: 0;
+    padding: 15px;
+    color: white;
+}
+#wpsfb-social-button h2 a{
+    color: white;
+}
+#wpsfb-content-list input[type=checkbox]:checked:before{
+    font-size: 34px;
+}
+
+.wpafi-rotate{
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    -o-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    transition-property: transform;
+
+    overflow:hidden;
+
+}
+
+.wpafi-rotate:hover
+{
+    -webkit-transform:rotate(360deg);
+    -moz-transform:rotate(360deg);
+    -o-transform:rotate(360deg);
+}
+#social_share_icon_widget-2 a{
+    margin-right: 5px;
+}
+#wpsfb-floating-icon-theme a img{
+    display: block;
+}
+.wpssfi-show-hide-icons{
+    background-image: url('../images/hide-show.png');
+    background-repeat: no-repeat;
+    width: 0;
+    height: 0;
+    padding-left: 50px;
+    cursor: pointer;
+    padding-top: 25px;
+    display: block;
+    background-size: 50px;
+}
+.rotateRight {
+    transition: all 0.5s ease;
+    /* Safari */
+    -webkit-transform: rotate(180deg);
+
+    /* Firefox */
+    -moz-transform: rotate(180deg);
+
+    /* IE */
+    -ms-transform: rotate(180deg);
+
+    /* Opera */
+    -o-transform: rotate(180deg);
+
+    /* Internet Explorer */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+
+}
+.rotateLeft {
+    transition: all 0.5s ease;
+    /* Safari */
+    -webkit-transform: rotate(360deg);
+
+    /* Firefox */
+    -moz-transform: rotate(360deg);
+
+    /* IE */
+    -ms-transform: rotate(360deg);
+
+    /* Opera */
+    -o-transform: rotate(360deg);
+
+    /* Internet Explorer */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+
+}
+#wpsfb-floating-icon-theme a{
+    box-shadow: none;
+}
+#wpssfi-top-post-div{
+    margin-bottom: 25px;
+}
+#wpssfi-top-post-div a{
+    box-shadow: none;
+}
+#wpssfi-top-post-div div{
+    width: 100%;
+}

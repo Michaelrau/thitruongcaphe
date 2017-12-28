@@ -1,0 +1,7 @@
+�z/Y<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1439;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2017-05-29 06:03:28";s:13:"post_date_gmt";s:19:"2017-05-28 23:03:28";s:12:"post_content";s:578:"(ttcp 29-5-2017) Giá hồ tiêu xô tại Kochi Ấn độ tiếp tục giảm. Nếu như ngày 23-5, giá hồ tiêu xô ở mức 49600 INR/tấn thì đến ngày 24-5 còn 49400 INR, và 26-5 cuối tuần trước chỉ còn 49100 INR/tấn.
+
+Giá trên sàn giao dịch cho loại hồ tiêu chuẩn theo sàn chỉ còn 52000 INR/tấn khi đóng cửa thứ sáu tuần trước.
+
+Giá hồ tiêu xô nhiều nơi tại Việt Nam dịp cuối tuần ở quanh mức 79-80 triệu đồng/tấn, không đổi mấy so với giữa tuần trước.
+
+QUAN DI SƠN";s:10:"post_title";s:77:"Giá hồ tiêu nội địa tại 2 nước sản xuất hàng đầu giảm";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:53:"gia-ho-tieu-noi-dia-tai-2-nuoc-san-xuat-hang-dau-giam";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-05-29 14:49:47";s:17:"post_modified_gmt";s:19:"2017-05-29 07:49:47";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:34:"https://thitruongcaphe.net/?p=1439";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,0 +1,1 @@
+A}/Y<?php exit; ?>a:1:{s:7:"content";s:187:"a:2:{s:27:"aboutimizer/aboutimizer.php";a:2:{i:0;s:11:"Aboutimizer";i:1;s:9:"uninstall";}s:59:"social-share-floating-icons/social-share-floating-icons.php";s:22:"wpassfi_delete_options";}";}

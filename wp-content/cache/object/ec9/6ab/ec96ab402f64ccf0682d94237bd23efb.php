@@ -1,0 +1,8 @@
+�r/Y<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"1379";s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2017-05-23 04:09:24";s:13:"post_date_gmt";s:19:"2017-05-22 21:09:24";s:12:"post_content";s:673:"<p style="text-align: center;"><em>Quyết toán vị thế tuần qua: 2 sàn đều bán ra</em></p>
+Tính đến hết ngày khóa sổ liệt kê thứ Ba hàng tuần, ngày gần nhất là 16-5-2017, vị thế kinh doanh tổng hợp gồm cả <em>kỳ hạn và quyền chọn</em> của các quỹ đầu cơ như sau:
+
+Sàn cà phê chè arabica Ice New York tăng vị thế dư bán thêm 2.379 lô để lên 13.168 lô so với ngày 9-5 là 10.789 lô.
+
+Sàn kỳ hạn cà phê vối robusta London giảm lượng dư mua hàng giấy tăng 3.675 lô. Số mới của ngày 16-5 là 20.789 lô so với 24.464 lô ngày 9-5-2017.
+
+PHẠM KỲ ANH";s:10:"post_title";s:72:"(23-5-2017) Vị thế kinh doanh của đầu cơ trên 2 sàn cà phê";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:56:"23-5-2017-vi-the-kinh-doanh-cua-dau-co-tren-2-san-ca-phe";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-05-25 07:46:38";s:17:"post_modified_gmt";s:19:"2017-05-25 00:46:38";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:34:"https://thitruongcaphe.net/?p=1379";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

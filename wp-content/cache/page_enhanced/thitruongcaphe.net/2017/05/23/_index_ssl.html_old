@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head><link rel="stylesheet" type="text/css" href="https://thitruongcaphe.net/wp-content/cache/minify/dad70.css" media="all" />
+
+<meta name="google-site-verification" content="jm1hdmJkIVGKahILf0jRmV94xal59Giz924ap9qmM-Q" />
+<META HTTP-EQUIV="Content-Language" CONTENT="vi">
+<META HTTP-EQUIV="Content-Type" content="text/html; charset=utf-8">
+<META NAME="Language" CONTENT="vi">
+<META NAME="Abstract" CONTENT="Cổng kết nối và trao đổi thông tin người sản xuất và kinh doanh cà phê">
+<META NAME="Author" CONTENT="Nguyễn Quang Bình">
+<meta name="copyright" content="Copyright by thitruongcaphe.net 2017">
+<meta name="robots" content="index, follow"> 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thị trường cà phê - Cổng kết nối và trao đổi thông tin người sản xuất và kinh doanh cà phê</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="alternate" hreflang="vi" href="https://thitruongcaphe.net">
+
+<title>23/05/2017 &#8211; THỊ TRƯỜNG CÀ PHÊ</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="THỊ TRƯỜNG CÀ PHÊ &raquo; Feed" href="https://thitruongcaphe.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="THỊ TRƯỜNG CÀ PHÊ &raquo; Comments Feed" href="https://thitruongcaphe.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/thitruongcaphe.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+
+
+
+<link rel='stylesheet' id='cassions-fonts-css'  href='https://fonts.googleapis.com/css?family=Droid+Serif%3A400italic%2C600italic%2C700italic%2C400%2C600%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+
+
+<style id='cassions-style-inline-css' type='text/css'>
+
+				button, input[type="button"],
+				input[type="reset"], input[type="submit"]
+			 	{
+					background-color: #772003;
+					border-color : #772003;
+				}
+				.menu-sticky { background-color: #772003; }
+
+				.widget a:hover,
+				.widget-title, .widget-title a,
+				.home-sidebar .widget .widget-title::after,
+				.entry-meta,
+				.entry-meta a,
+				.main-navigation a:hover,
+				.main-navigation .current_page_item > a,
+				.main-navigation .current-menu-item > a,
+				.main-navigation .current_page_ancestor > a
+				{ color : #772003; }
+				.widget_tag_cloud a:hover { border-color : #772003; }
+				a,
+				.entry-title a,
+				.entry-title
+				{
+					color: #444444;
+				}
+
+				button:hover, input[type="button"]:hover,
+				input[type="reset"]:hover,
+				input[type="submit"]:hover,
+				.st-menu .btn-close-home .home-button:hover,
+				.st-menu .btn-close-home .close-button:hover {
+						background-color: #444444;
+						border-color: #444444;
+				}
+</style>
+<script type="text/javascript" src="https://thitruongcaphe.net/wp-content/cache/minify/c85de.js"></script>
+
+
+
+
+<link rel='https://api.w.org/' href='https://thitruongcaphe.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thitruongcaphe.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://thitruongcaphe.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.5" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<style type="text/css">
+			.site-header .site-title a,
+		.site-header .site-description,
+		.site-header .header-topbar .top-time,
+		.social-links a,
+		.header-top-mobile-menu-button {
+			color: #ffffff;
+		}
+		</style>
+	</head>
+
+<body class="archive date group-blog hfeed">
+<div id="page" class="site">
+
+	<div class="site-pusher">
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+		<!-- begin .header-mobile-menu -->
+		<nav class="st-menu st-effect-3" id="menu-3">
+
+			
+			<div class="menu-main-container"><ul><li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7"><a href="https://thitruongcaphe.net">Trang chủ</a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8"><a href="https://thitruongcaphe.net/tin-tuc">Tin tức</a>
+<ul class="sub-menu">
+	<li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a href="https://thitruongcaphe.net/tin-tuc/ca-phe">Tin cà phê</a></li>
+	<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="https://thitruongcaphe.net/tin-tuc/nong-san-khac">Tin nông sản khác</a></li>
+	<li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a href="https://thitruongcaphe.net/tin-tuc/hang-hoa-khac">Tin các loại hàng hóa khác</a></li>
+	<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://thitruongcaphe.net/tin-tuc/thi-truong-tai-chinh">Tin tài chính ngân hàng</a></li>
+	<li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="https://thitruongcaphe.net/tin-tuc/hinh-anh">Tin hình ảnh</a></li>
+	<li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="https://thitruongcaphe.net/tin-tuc/video">Tin video</a></li>
+</ul>
+</li>
+<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10"><a href="https://thitruongcaphe.net/phan-tich-du-bao">Phân tích &#8211; Dự báo</a>
+<ul class="sub-menu">
+	<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://thitruongcaphe.net/phan-tich-du-bao/ca-phe">Cà phê</a></li>
+	<li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="https://thitruongcaphe.net/phan-tich-du-bao/nong-san-khac">Nông sản khác</a></li>
+	<li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="https://thitruongcaphe.net/phan-tich-du-bao/hang-hoa-khac">Hàng hóa khác</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="https://thitruongcaphe.net/phan-tich-du-bao/tai-chinh-ngan-hang">Tài chính ngân hàng</a></li>
+</ul>
+</li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="https://thitruongcaphe.net/van-hoa-van-nghe">Văn hóa &#8211; Văn nghệ</a>
+<ul class="sub-menu">
+	<li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/tap-but">Tạp bút</a></li>
+	<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/tho">Thơ</a></li>
+	<li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/truyen-cuoi">Truyện cười</a></li>
+	<li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/cac-bai-thuoc">Các bài thuốc</a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/blog">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143"><a href="https://thitruongcaphe.net/commodities-news">Commodities News</a></li>
+<li id="menu-item-1314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1314"><a href="https://thitruongcaphe.net/archives/">Archives</a></li>
+</ul></div>
+		</nav>
+		<!-- end .header-mobile-menu -->
+		<header id="masthead" class="site-header" role="banner" data-parallax="scroll" data-image-src="">
+			<div class="site-header-wrap">
+
+				<div class="header-topbar">
+					<div class="container">
+
+						<button type="button" data-effect="st-effect-3" class="header-top-mobile-menu-button mobile-menu-button"><i class="fa fa-bars"></i></button>
+
+						<div class="top-time">
+							<span>THỊ TRƯỜNG CÀ PHÊ - <time id="current_date">
+								01/06/2017							</time>
+							</span>
+						</div>
+
+						<!-- begin cassions-top-icons-search -->
+						<div class="topbar-icons-search">
+
+							<div class="topbar-icons">
+								<div class="menu"><ul>
+<li class="page_item page-item-2"><a href="https://thitruongcaphe.net/archives/"><span class="screen-reader-text">Archives</span></a></li>
+</ul></div>
+							</div>
+
+							<div class="topbar-search">
+
+							</div>
+
+						</div>
+						<!-- end top-icons-search -->
+
+					</div>
+				</div>
+
+
+				<div class="site-branding">
+					<div class="container">
+						<div id="div-site-title" class="div-site-title">
+														<div class="main-site-title">
+															<p class="site-title"><a href="https://thitruongcaphe.net/" rel="home">THỊ TRƯỜNG CÀ PHÊ</a></p>
+								
+															<p class="site-description">Cổng kết nối và trao đổi thông tin người sản xuất và kinh doanh cà phê</p>
+														</div>
+						</div>						
+						<div id="search-form" class="st-search-form"><form role="search" method="get" id="searchform" class="search-form" action="https://thitruongcaphe.net/" >
+	    <label for="s">
+			<span class="screen-reader-text">Search for:</span>
+			<input type="text" class="search-field" placeholder="Tìm kiếm" value="" name="s" id="s" />
+		</label>
+		<button type="submit" class="search-submit">
+	        <i class="fa fa-search"></i>
+	    </button>
+	    </form></div>
+					</div>									
+				</div><!-- .site-branding -->
+			</div> <!-- .site-header-wrap -->
+		</header><!-- #masthead -->
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<div class="container">
+				<div class="menu-main-container"><ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7"><a href="https://thitruongcaphe.net">Trang chủ</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8"><a href="https://thitruongcaphe.net/tin-tuc">Tin tức</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a href="https://thitruongcaphe.net/tin-tuc/ca-phe">Tin cà phê</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="https://thitruongcaphe.net/tin-tuc/nong-san-khac">Tin nông sản khác</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a href="https://thitruongcaphe.net/tin-tuc/hang-hoa-khac">Tin các loại hàng hóa khác</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://thitruongcaphe.net/tin-tuc/thi-truong-tai-chinh">Tin tài chính ngân hàng</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="https://thitruongcaphe.net/tin-tuc/hinh-anh">Tin hình ảnh</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="https://thitruongcaphe.net/tin-tuc/video">Tin video</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10"><a href="https://thitruongcaphe.net/phan-tich-du-bao">Phân tích &#8211; Dự báo</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://thitruongcaphe.net/phan-tich-du-bao/ca-phe">Cà phê</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="https://thitruongcaphe.net/phan-tich-du-bao/nong-san-khac">Nông sản khác</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="https://thitruongcaphe.net/phan-tich-du-bao/hang-hoa-khac">Hàng hóa khác</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="https://thitruongcaphe.net/phan-tich-du-bao/tai-chinh-ngan-hang">Tài chính ngân hàng</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="https://thitruongcaphe.net/van-hoa-van-nghe">Văn hóa &#8211; Văn nghệ</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/tap-but">Tạp bút</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/tho">Thơ</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/truyen-cuoi">Truyện cười</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/cac-bai-thuoc">Các bài thuốc</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/blog">Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143"><a href="https://thitruongcaphe.net/commodities-news">Commodities News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1314"><a href="https://thitruongcaphe.net/archives/">Archives</a></li>
+</ul></div>			</div>
+		</nav><!-- #site-navigation -->
+
+		<div id="content" class="site-content"> </div>
+	</div>
+</div>	
+
+<div class="container">
+	<div class="front-left">
+		<div id="primary" class="content-area">
+			<main id="main" class="site-main" role="main">
+	
+				
+				<header class="page-header">
+					<h1 class="entry-title">Day: May 23, 2017</h1>				</header><!-- .page-header -->
+	
+				
+<article id="post-1387" class="post-list clear post-1387 post type-post status-publish format-standard has-post-thumbnail hentry category-tin-tuc">
+    <!-- begin .featured-image -->
+        <div class="featured-image">
+        <a href="https://thitruongcaphe.net/23-5-2017-binh-luan-ngan-ve-gia-ky-han-ca-phe-truoc-gio-mo-cua-hom-nay/" title="(23-5-2017) Bình luận ngắn về giá kỳ hạn cà phê trước giờ mở cửa hôm nay"><img width="220" height="165" src="https://thitruongcaphe.net/wp-content/uploads/2017/03/IMG_0545-220x165.png" class="attachment-cassions-thumbnail-default size-cassions-thumbnail-default wp-post-image" alt="" /></a>    </div>
+        <!-- end .featured-image -->
+
+    <div class="ft-post-right">
+            <!-- begin .entry-header -->
+            <div class="entry-header">
+                <h2 class="entry-title"><a href="https://thitruongcaphe.net/23-5-2017-binh-luan-ngan-ve-gia-ky-han-ca-phe-truoc-gio-mo-cua-hom-nay/" rel="bookmark">(23-5-2017) Bình luận ngắn về giá kỳ hạn cà phê trước giờ mở cửa hôm nay</a></h2>                
+            </div>
+            <!-- end .entry-header -->
+
+            <div class="entry-content">
+                <p>Cả 2 yếu tố kỹ thuật và cung cầu, đặc biệt tiền tệ như thế, nên không thể cứu giá cà phê trong phiên đầu tuần ngày 22-5. Trái bom nổ tại buổi ca nhạc hôm qua ở London sẽ gây tác hại cho giá cà phê không&#8230;</p>
+            </div><!-- .entry-content -->
+    </div>
+</article><!-- #post-## -->
+
+<article id="post-1396" class="post-list clear post-1396 post type-post status-publish format-standard hentry category-tin-tuc-video no-post-thumbnail">
+    <!-- begin .featured-image -->
+        <!-- end .featured-image -->
+
+    <div class="ft-post-right">
+            <!-- begin .entry-header -->
+            <div class="entry-header">
+                <h2 class="entry-title"><a href="https://thitruongcaphe.net/23-5-2017-nhan-dinh-thi-truong-ca-phe-truoc-gio-mo-cua/" rel="bookmark">[23-5-2017] Nhận định thị trường cà phê trước giờ mở cửa</a></h2>                
+            </div>
+            <!-- end .entry-header -->
+
+            <div class="entry-content">
+                <p><iframe width="320" height="210" src="https://www.youtube.com/embed/z9lYdNv2qf4" frameborder="0" allowfullscreen></iframe></p>
+            </div><!-- .entry-content -->
+    </div>
+</article><!-- #post-## -->
+
+<article id="post-1369" class="post-list clear post-1369 post type-post status-publish format-standard has-post-thumbnail hentry category-tin-tuc tag-brazil tag-conab tag-rabobank tag-safras tag-san-luong-2017 tag-san-luong-arabica-brazil tag-san-luong-brazil tag-san-luong-robusta-brazil tag-usda tag-usda-uoc-luong-tieu-thu-noi-dia-brazil tag-usda-uoc-san-luong-ca-phe-brazil-201718">
+    <!-- begin .featured-image -->
+        <div class="featured-image">
+        <a href="https://thitruongcaphe.net/23-5-2017-brazil-mua-thuan-day-san-luong-robusta-tang-nhung-arabica-chua-han/" title="(23-5-2017) Sản lượng cà phê Brazil: con số của USDA cao hơn Conab 6,5 triệu bao"><img width="220" height="165" src="https://thitruongcaphe.net/wp-content/uploads/2017/05/IMG_2199-220x165.jpg" class="attachment-cassions-thumbnail-default size-cassions-thumbnail-default wp-post-image" alt="" /></a>    </div>
+        <!-- end .featured-image -->
+
+    <div class="ft-post-right">
+            <!-- begin .entry-header -->
+            <div class="entry-header">
+                <h2 class="entry-title"><a href="https://thitruongcaphe.net/23-5-2017-brazil-mua-thuan-day-san-luong-robusta-tang-nhung-arabica-chua-han/" rel="bookmark">(23-5-2017) Sản lượng cà phê Brazil: con số của USDA cao hơn Conab 6,5 triệu bao</a></h2>                
+            </div>
+            <!-- end .entry-header -->
+
+            <div class="entry-content">
+                <p>Theo nhiều chuyên gia, đánh giá sản lượng của Conab về sản lượng cà phê Brazil năm nay như thế là thấp so với nhiều dự đoán khác&#8230;</p>
+            </div><!-- .entry-content -->
+    </div>
+</article><!-- #post-## -->
+
+<article id="post-1379" class="post-list clear post-1379 post type-post status-publish format-standard has-post-thumbnail hentry category-phan-tich-du-bao-ca-phe">
+    <!-- begin .featured-image -->
+        <div class="featured-image">
+        <a href="https://thitruongcaphe.net/23-5-2017-vi-the-kinh-doanh-cua-dau-co-tren-2-san-ca-phe/" title="(23-5-2017) Vị thế kinh doanh của đầu cơ trên 2 sàn cà phê"><img width="220" height="165" src="https://thitruongcaphe.net/wp-content/uploads/2017/05/cftc-1-220x165.jpg" class="attachment-cassions-thumbnail-default size-cassions-thumbnail-default wp-post-image" alt="" /></a>    </div>
+        <!-- end .featured-image -->
+
+    <div class="ft-post-right">
+            <!-- begin .entry-header -->
+            <div class="entry-header">
+                <h2 class="entry-title"><a href="https://thitruongcaphe.net/23-5-2017-vi-the-kinh-doanh-cua-dau-co-tren-2-san-ca-phe/" rel="bookmark">(23-5-2017) Vị thế kinh doanh của đầu cơ trên 2 sàn cà phê</a></h2>                
+            </div>
+            <!-- end .entry-header -->
+
+            <div class="entry-content">
+                <p>Quyết toán vị thế tuần qua: 2 sàn đều bán ra Tính đến hết ngày khóa sổ liệt kê thứ Ba hàng tuần, ngày gần nhất là 16-5-2017, vị thế kinh doanh tổng hợp gồm&#8230;</p>
+            </div><!-- .entry-content -->
+    </div>
+</article><!-- #post-## -->
+<div class="post-pagination"></div>	
+			</main><!-- #main -->
+		</div><!-- #primary -->
+	</div>
+	
+<aside id="secondary" class="sidebar widget-area" role="complementary">
+
+	
+			<section id="text-2" class="widget widget_text"><h4 class="widget-title">Tiếng anh trong kinh doanh</h4>			<div class="textwidget"><iframe width="320" height="210" src="https://www.youtube.com/embed/DK4yYIekqQY?list=PLhHs7_OVv19s-Kqz-2xoTUEd2lVYicqSS" frameborder="0" allowfullscreen></iframe></div>
+		</section><section id="widget_tptn_pop-2" class="widget widget_widget_tptn_pop"><h4 class="widget-title">Bài được quan tâm nhất</h4><div class="tptn_posts  tptn_posts_widget tptn_posts_widget2"><ul><li><span class="tptn_after_thumb"><a href="https://thitruongcaphe.net/2-5-2017-gia-arabica-new-york-tang-co-hoi-cho-robusta-london-phuc-hoi/"     class="tptn_link"><span class="tptn_title">(2-5-2017) Giá arabica New York tăng, cơ hội cho&hellip;</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://thitruongcaphe.net/gia-ho-tieu-noi-dia-tai-2-nuoc-san-xuat-hang-dau-giam/"     class="tptn_link"><span class="tptn_title">Giá hồ tiêu nội địa tại 2 nước sản xuất&hellip;</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://thitruongcaphe.net/27-4-2017-gia-london-chinh-tang-manh-dau-phien-duong-nhe-cuoi-phien/"     class="tptn_link"><span class="tptn_title">(27-4-2017) Giá London chỉnh tăng mạnh đầu phiên,&hellip;</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://thitruongcaphe.net/29-4-2017-nuong-nhau-di-len-gia-ca-phe-tang-manh-phien-cuoi-tuan/"     class="tptn_link"><span class="tptn_title">(29-4-2017) Nương nhau đi lên, giá cà phê tăng&hellip;</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://thitruongcaphe.net/11-5-2017-gia-ca-phe-rot-la-do-cac-quy-dau-co-ico/"     class="tptn_link"><span class="tptn_title">(11-5-2017) Giá cà phê rớt là do các quỹ đầu cơ</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://thitruongcaphe.net/25-4-2017-gia-ca-phe-giam-do-dau-co-ban-thao-chua-ngot/"     class="tptn_link"><span class="tptn_title">(25-4-2017) Giá cà phê giảm do đầu cơ bán tháo&hellip;</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://thitruongcaphe.net/21-4-2017-gia-ky-han-ca-phe-vao-dot-ban-thao-de-tat-toan-cac-giao-dich-thang-5-2017/"     class="tptn_link"><span class="tptn_title">(21-4-2017) Giá kỳ hạn cà phê vào đợt bán tháo&hellip;</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://thitruongcaphe.net/18-5-2017-gia-ca-phe-tang-manh-nho-suc-day-lien-hoi-cua-dong-do-la-my-yeu/"     class="tptn_link"><span class="tptn_title">(18-5-2017) Giá cà phê tăng mạnh nhờ sức đẩy&hellip;</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://thitruongcaphe.net/nhan-dinh-gia-ca-phe-the-gioi-tuan-tu-01052017-toi-06052017/"     class="tptn_link"><span class="tptn_title">Nhận định giá cà phê thế giới tuần từ&hellip;</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://thitruongcaphe.net/gia-ca-phe-ra-sao-tuan-sau-tuan-thu-19-2017-tu-8-1352017/"     class="tptn_link"><span class="tptn_title">Giá cà phê ra sao tuần sau? (Tuần thứ 19-2017 &hellip;</span></a></span></li></ul><div class="tptn_clear"></div></div></section><section id="recent-comments-2" class="widget widget_recent_comments"><h4 class="widget-title">Thảo luận</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://thitruongcaphe.net' rel='external nofollow' class='url'>Binh Nguyen Quang</a></span> on <a href="https://thitruongcaphe.net/11-5-2017-gia-ca-phe-rot-la-do-cac-quy-dau-co-ico/#comment-50">(11-5-2017) Giá cà phê rớt là do các quỹ đầu cơ – ICO</a></li><li class="recentcomments"><span class="comment-author-link">Hồ Dũng</span> on <a href="https://thitruongcaphe.net/11-5-2017-gia-ca-phe-rot-la-do-cac-quy-dau-co-ico/#comment-49">(11-5-2017) Giá cà phê rớt là do các quỹ đầu cơ – ICO</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://thitruongcaphe.net' rel='external nofollow' class='url'>Binh Nguyen Quang</a></span> on <a href="https://thitruongcaphe.net/11-5-2017-gia-ca-phe-rot-la-do-cac-quy-dau-co-ico/#comment-48">(11-5-2017) Giá cà phê rớt là do các quỹ đầu cơ – ICO</a></li><li class="recentcomments"><span class="comment-author-link">dzungho</span> on <a href="https://thitruongcaphe.net/11-5-2017-gia-ca-phe-rot-la-do-cac-quy-dau-co-ico/#comment-47">(11-5-2017) Giá cà phê rớt là do các quỹ đầu cơ – ICO</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://commovn.blogspot.com' rel='external nofollow' class='url'>TQH</a></span> on <a href="https://thitruongcaphe.net/nhan-dinh-gia-ca-phe-the-gioi-tuan-tu-08052017-toi-13052017/#comment-45">Nhận định giá cà phê thế giới tuần từ 08/05/2017 tới 13/05/2017.</a></li></ul></section><section id="calendar-2" class="widget widget_calendar"><h4 class="widget-title">Lịch thường niên</h4><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>May 2017</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="https://thitruongcaphe.net/2017/04/">&laquo; Apr</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next"><a href="https://thitruongcaphe.net/2017/06/">Jun &raquo;</a></td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr><td><a href="https://thitruongcaphe.net/2017/05/01/" aria-label="Posts published on May 1, 2017">1</a></td><td><a href="https://thitruongcaphe.net/2017/05/02/" aria-label="Posts published on May 2, 2017">2</a></td><td><a href="https://thitruongcaphe.net/2017/05/03/" aria-label="Posts published on May 3, 2017">3</a></td><td><a href="https://thitruongcaphe.net/2017/05/04/" aria-label="Posts published on May 4, 2017">4</a></td><td><a href="https://thitruongcaphe.net/2017/05/05/" aria-label="Posts published on May 5, 2017">5</a></td><td><a href="https://thitruongcaphe.net/2017/05/06/" aria-label="Posts published on May 6, 2017">6</a></td><td><a href="https://thitruongcaphe.net/2017/05/07/" aria-label="Posts published on May 7, 2017">7</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://thitruongcaphe.net/2017/05/08/" aria-label="Posts published on May 8, 2017">8</a></td><td><a href="https://thitruongcaphe.net/2017/05/09/" aria-label="Posts published on May 9, 2017">9</a></td><td><a href="https://thitruongcaphe.net/2017/05/10/" aria-label="Posts published on May 10, 2017">10</a></td><td><a href="https://thitruongcaphe.net/2017/05/11/" aria-label="Posts published on May 11, 2017">11</a></td><td><a href="https://thitruongcaphe.net/2017/05/12/" aria-label="Posts published on May 12, 2017">12</a></td><td><a href="https://thitruongcaphe.net/2017/05/13/" aria-label="Posts published on May 13, 2017">13</a></td><td>14</td>
+	</tr>
+	<tr>
+		<td><a href="https://thitruongcaphe.net/2017/05/15/" aria-label="Posts published on May 15, 2017">15</a></td><td><a href="https://thitruongcaphe.net/2017/05/16/" aria-label="Posts published on May 16, 2017">16</a></td><td><a href="https://thitruongcaphe.net/2017/05/17/" aria-label="Posts published on May 17, 2017">17</a></td><td><a href="https://thitruongcaphe.net/2017/05/18/" aria-label="Posts published on May 18, 2017">18</a></td><td><a href="https://thitruongcaphe.net/2017/05/19/" aria-label="Posts published on May 19, 2017">19</a></td><td>20</td><td><a href="https://thitruongcaphe.net/2017/05/21/" aria-label="Posts published on May 21, 2017">21</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://thitruongcaphe.net/2017/05/22/" aria-label="Posts published on May 22, 2017">22</a></td><td><a href="https://thitruongcaphe.net/2017/05/23/" aria-label="Posts published on May 23, 2017">23</a></td><td><a href="https://thitruongcaphe.net/2017/05/24/" aria-label="Posts published on May 24, 2017">24</a></td><td><a href="https://thitruongcaphe.net/2017/05/25/" aria-label="Posts published on May 25, 2017">25</a></td><td><a href="https://thitruongcaphe.net/2017/05/26/" aria-label="Posts published on May 26, 2017">26</a></td><td><a href="https://thitruongcaphe.net/2017/05/27/" aria-label="Posts published on May 27, 2017">27</a></td><td><a href="https://thitruongcaphe.net/2017/05/28/" aria-label="Posts published on May 28, 2017">28</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://thitruongcaphe.net/2017/05/29/" aria-label="Posts published on May 29, 2017">29</a></td><td><a href="https://thitruongcaphe.net/2017/05/30/" aria-label="Posts published on May 30, 2017">30</a></td><td><a href="https://thitruongcaphe.net/2017/05/31/" aria-label="Posts published on May 31, 2017">31</a></td>
+		<td class="pad" colspan="4">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></section>
+	
+</aside><!-- #secondary -->
+</div>
+
+
+		</div><!-- #content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			
+			
+			<div class="site-map">
+				<div class="container">
+				<ul class="menu-bottom .w-1000 clearfix">					
+					<li alias="tin-tuc" class="item">
+						<a href="https://thitruongcaphe.net/tin-tuc">Tin tức</a>
+						<ul class="submenu">
+							<li alias="tin-tuc-ca-phe"><a href="https://thitruongcaphe.net/tin-tuc/ca-phe">Tin cà phê</a></li>
+							<li alias="tin-tuc-nong-san-khac"><a href="https://thitruongcaphe.net/tin-tuc/nong-san-khac">Tin nông sản khác</a></li>
+							<li alias="tin-tuc-cac-loai-hang-hoa-khac"><a href="https://thitruongcaphe.net/tin-tuc/cac-loai-hang-hoa-khac">Tin các loại hàng hóa khác</a></li>
+							<li alias="tin-tuc-tai-chinh-ngan-hang"><a href="https://thitruongcaphe.net/tin-tuc/tai-chinh-ngan-hang">Tài chính ngân hàng</a></li>				
+							<li alias="tin-tuc-hinh-anh"><a href="https://thitruongcaphe.net/tin-tuc/hinh-anh">Tin hình ảnh</a></li>
+							<li alias="tin-tuc-video"><a href="https://thitruongcaphe.net/tin-tuc/video">Tin video</a></li>			
+						</ul>
+					</li>
+					<li alias="phan-tich-du-bao" class="item">
+						<a href="https://thitruongcaphe.net/phan-tich-du-bao">Phân tích dự báo</a>
+						<ul class="submenu">
+							<li alias="phan-tich-du-bao-ca-phe"><a href="https://thitruongcaphe.net/phan-tich-du-bao/ca-phe">Cà phê</a></li>
+							<li alias="phan-tich-du-bao-nong-san-khac"><a href="https://thitruongcaphe.net/phan-tich-du-bao/nong-san-khac">Nông sản khác</a></li>
+							<li alias="phan-tich-du-bao-cac-loai-hang-hoa-khac"><a href="https://thitruongcaphe.net/phan-tich-du-bao/cac-loai-hang-hoa-khac">Các loại hàng hóa khác</a></li>
+							<li alias="phan-tich-du-bao-tai-chinh-ngan-hang"><a href="https://thitruongcaphe.net/phan-tich-du-bao/tai-chinh-ngan-hang">Tin tài chính ngân hàng</a></li>							
+						</ul>
+					</li>
+					<li alias="van-hoa-van-nghe" class="item">
+						<a href="https://thitruongcaphe.net/van-hoa-van-nghe">Văn hóa - Văn nghệ</a>
+						<ul class="submenu">
+							<li alias="tap-but"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/tap-but">Tạp bút</a></li>
+							<li alias="tho"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/tho">Thơ</a></li>
+							<li alias="truyen-cuoi"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/truyen-cuoi">Truyện cười</a></li>
+							<li alias="cac-bai-thuoc"><a href="https://thitruongcaphe.net/van-hoa-van-nghe/cac-bai-thuoc">Các bài thuốc</a></li>
+							<li alias="blog"><a href="https://thitruongcaphe.net/blog">Blog</a></li>							
+						</ul>
+					</li>	
+					<li alias="commodities-news" class="item">
+						<a href="https://thitruongcaphe.net/commodities-news">Commodities News</a>
+					</li>
+					<li alias="archives" class="item">
+						<a href="https://thitruongcaphe.net/archives">Archives</a>
+					</li>
+									
+				</ul>
+				</div>
+			</div>
+			
+			<div class="author-info">
+				<div class="container">
+					<div class="footer-info footer-info-left">
+						<p>Copyright &copy; 2017 THỊ TRƯỜNG CÀ PHÊ. All Rights Reserved.</p>
+						<p>Tác giả : Nguyễn Quang Bình</p>
+					</div>
+					<div class="footer-info footer-info-center">						
+						<p>Hosting service: <a href="https://emsa-technology.com">EMSA TECHNOLOGY</a></p>
+						<p>Email: contact@emsa-technology.com</p>						
+					</div >					
+					<div class="footer-info footer-info-right">
+						<p>Liên hệ quảng cáo</p>
+						<p>0983.718.338 | 01234.808.818
+					</div>
+				</div>
+			</div><!-- .site-info -->
+
+		</footer><!-- #colophon -->
+	</div><!-- .site-pusher -->
+</div><!-- #page -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"https:\/\/thitruongcaphe.net\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/thitruongcaphe.net\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 item at a time.","image":"stars_crystal","image_ext":"gif","max":"5","show_loading":"1","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="https://thitruongcaphe.net/wp-content/plugins/wp-postratings/images/stars_crystal/rating_over.gif";;
+/* ]]> */
+</script>
+
+
+
+
+<script type="text/javascript" src="https://thitruongcaphe.net/wp-content/cache/minify/436ef.js"></script>
+
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 2122/2206 objects using disk
+Page Caching using disk: enhanced
+Content Delivery Network via N/A
+Minified using disk
+Database Caching 3/23 queries in 0.005 seconds using disk
+
+ Served from: thitruongcaphe.net @ 2017-06-01 06:32:28 by W3 Total Cache -->
