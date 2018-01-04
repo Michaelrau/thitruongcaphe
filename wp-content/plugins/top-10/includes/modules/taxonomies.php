@@ -15,15 +15,15 @@ if ( ! defined( 'WPINC' ) ) {
  *
  * @since 2.2.0
  *
- * @param	mixed $join Join clause.
- * @return	string	Filtered JOIN clause
+ * @param   mixed $join Join clause.
+ * @return  string  Filtered JOIN clause
  */
 function tptn_exclude_categories_join( $join ) {
 	global $wpdb, $tptn_settings;
 
-	if ( '' !== $tptn_settings['exclude_categories'] ) {
+	if ( '' !== tptn_get_option( 'exclude_categories' ) ) {
 
-		$sql = $join;
+		$sql  = $join;
 		$sql .= " LEFT JOIN $wpdb->term_relationships AS excat_tr ON ($wpdb->posts.ID = excat_tr.object_id) ";
 		$sql .= " LEFT JOIN $wpdb->term_taxonomy AS excat_tt ON (excat_tr.term_taxonomy_id = excat_tt.term_taxonomy_id) ";
 
@@ -40,17 +40,17 @@ add_filter( 'tptn_posts_join', 'tptn_exclude_categories_join' );
  *
  * @since 2.2.0
  *
- * @param	mixed $where WHERE clause.
- * @return	string	Filtered WHERE clause
+ * @param   mixed $where WHERE clause.
+ * @return  string  Filtered WHERE clause
  */
 function tptn_exclude_categories_where( $where ) {
 	global $wpdb, $tptn_settings;
 
-	if ( '' === $tptn_settings['exclude_categories'] ) {
+	if ( '' === tptn_get_option( 'exclude_categories' ) ) {
 		return $where;
 	} else {
 
-		$terms = $tptn_settings['exclude_categories'];
+		$terms = tptn_get_option( 'exclude_categories' );
 
 		$sql = $where;
 
@@ -72,15 +72,15 @@ add_filter( 'tptn_posts_where', 'tptn_exclude_categories_where' );
  *
  * @since 2.3.0
  *
- * @param	mixed $groupby GROUP BY clause.
- * @return	string	Filtered GROUP BY clause
+ * @param   mixed $groupby GROUP BY clause.
+ * @return  string  Filtered GROUP BY clause
  */
 function tptn_exclude_categories_groupby( $groupby ) {
 	global $tptn_settings;
 
-	if ( '' !== $tptn_settings['exclude_categories'] && '' !== $groupby ) {
+	if ( '' !== tptn_get_option( 'exclude_categories' ) && '' !== $groupby ) {
 
-		$sql = $groupby;
+		$sql  = $groupby;
 		$sql .= ', excat_tt.term_taxonomy_id ';
 
 		return $sql;

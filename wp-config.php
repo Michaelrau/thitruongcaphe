@@ -24,10 +24,10 @@
 define('DB_NAME', 'thitruongcaphe');
 
 /** MySQL database username */
-define('DB_USER', 'binhnq');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'pw123456x@X');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -88,3 +88,7 @@ if ( !defined('ABSPATH') )
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
+
+define('FS_METHOD', 'direct');
+define( 'FS_CHMOD_DIR', ( 0755 & ~ umask() ) );
+define( 'FS_CHMOD_FILE', ( 0644 & ~ umask() ) );

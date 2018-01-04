@@ -1,0 +1,100 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+#main {
+  padding: 0 !important;
+}
+
+#primary-top row { display: flex; }
+
+.sub-posts {
+  padding: 0 !important;  
+  max-height: 400px;
+  min-height: 400px;
+  overflow: auto;
+}
+
+.sub-posts article {
+  padding: 7px 0;
+  border-bottom: 1px dotted #e6e6e6;
+}
+
+.sub-posts article:first-child {
+  padding-top: 0;
+}
+
+.sub-posts article:last-child {
+  border: none;
+}
+
+.sub-posts a { 
+  color: #373a3c;
+}  
+
+.row-header {
+	clear: both;
+	text-align: center;
+}
+
+.row-item {
+	clear: both;
+	text-align: left;
+	border-top : 1px solid #e6e6e6;
+}
+
+#block-bgtk { padding-right: 0 }
+
+.row-header {
+	clear: both;	
+	font-weight: bold;
+	text-align: center !important;
+	border-top : 1px solid #e6e6e6;		
+}
+
+.row-header .column-item {
+	background-color: #971D0C;
+	color: #fff;
+	width: 100%;
+	border-left: 1px solid #e6e6e6;
+	border-right: 1px solid #e6e6e6;
+}
+
+.row-header-child {
+	font-weight: bold;
+	text-align: center;
+	height: auto;
+	display: flex;
+}
+
+.row-item .column-item {
+	border-right: 1px solid #e6e6e6;	
+}
+
+.column-item {
+	float: left;	
+    padding-left: 5px;
+}
+
+.row-item .column_0 {
+	border-left: 1px solid #e6e6e6;
+	width: 35%;
+}
+
+.column_1 {
+	width: 20%;
+}	
+
+.column_2, .column_3, .column_4 {
+	width: 15%;
+}
+
+.bottom-content-area {
+	clear: both;
+}
+
+.bgtk {
+	margin-top: 7px;
+	padding-bottom: 25px;
+	margin-bottom: 20px;
+	border: 1px solid #971D0C;
+}</style>
+<!-- end Simple Custom CSS and JS -->

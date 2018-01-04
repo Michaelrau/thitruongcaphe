@@ -34,7 +34,6 @@ function get_query_var( $var, $default = '' ) {
  * Wrapper for WP_Query::get_queried_object().
  *
  * @since 3.1.0
- * @access public
  *
  * @global WP_Query $wp_query Global WP_Query instance.
  *
@@ -97,50 +96,6 @@ function set_query_var( $var, $value ) {
 function query_posts($query) {
 	$GLOBALS['wp_query'] = new WP_Query();
 	return $GLOBALS['wp_query']->query($query);
-}
-
-function query_latest_posts($posts_per_page) {
-	$args = array(
-	    'posts_per_page' =>  $posts_per_page
-	);
-	query_posts($args);
-}
-
-function get_latest_posts_exclude_ids($posts_per_page, $ids) {
-	$args = array(
-	    'posts_per_page' =>  $posts_per_page,
-		'post__not_in' => $ids
-	);
-	query_posts($args);
-}
-
-function query_last_posts_by_category_slug($posts_per_page, $slug) {
-	$args = array(
-		'posts_per_page' =>  $posts_per_page,
-	    'tag' => get_queried_object()->slug, // If permalink like example.com/tag/example-tag, etc.
-	    'tax_query' => array( 
-	        array(
-	            'taxonomy' => 'category', // Taxonomy, in my case I need default post categories
-	            'field'    => 'slug',
-	            'terms'    => $slug, // Your category slug (I have a category 'interior')
-	        ),
-	    ) 
-	);
-	query_posts($args);
-}
-
-function query_posts_by_category_slug($slug) {
-	$args = array(
-	    'tag' => get_queried_object()->slug, // If permalink like example.com/tag/example-tag, etc.
-	    'tax_query' => array( 
-	        array(
-	            'taxonomy' => 'category', // Taxonomy, in my case I need default post categories
-	            'field'    => 'slug',
-	            'terms'    => $slug, // Your category slug (I have a category 'interior')
-	        ),
-	    ) 
-	);
-	query_posts($args);
 }
 
 /**
@@ -641,7 +596,8 @@ function is_single( $post = '' ) {
 }
 
 /**
- * Is the query for an existing single post of any post type (post, attachment, page, ... )?
+ * Is the query for an existing single post of any post type (post, attachment, page,
+ * custom post types)?
  *
  * If the $post_types parameter is specified, this function will additionally
  * check if the query is for one of the Posts Types specified.

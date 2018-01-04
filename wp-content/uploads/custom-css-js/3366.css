@@ -1,0 +1,18 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/** Start custom css **/
+.logo-box { max-width: 100% !important }
+
+.logo-box p { margin-bottom : 0 !important; }
+
+.site-branding {
+    margin: 10px !important ;
+}
+
+.site-description {
+	font-size: 20px;
+	padding-left: 5px;
+} 
+
+</style>
+<!-- end Simple Custom CSS and JS -->
