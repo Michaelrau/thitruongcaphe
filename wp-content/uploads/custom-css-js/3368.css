@@ -41,7 +41,11 @@
 	border-top : 1px solid #e6e6e6;
 }
 
-#block-bgtk { padding-right: 0 }
+#primary-middle, #primary-bottom { padding-right: 0 } 
+
+#primary-middle .header, #primary-bottom .header { color: #971D0C; padding-top: 20px; }
+
+#primary-middle .content, #primary-bottom .content { border: 1px dotted #971D0C; padding: 2px }
 
 .row-header {
 	clear: both;	
@@ -94,7 +98,14 @@
 .bgtk {
 	margin-top: 7px;
 	padding-bottom: 25px;
-	margin-bottom: 20px;
-	border: 1px solid #971D0C;
-}</style>
+	margin-bottom: 20px;	
+}
+
+.widget { border: 1px dotted #971D0C !important; }
+
+.widget h2 {
+   border-bottom: 1px solid #971D0C !important;
+}
+
+#wp-calendar caption, #today { background-color: #971D0C !important; color: #fff !important }</style>
 <!-- end Simple Custom CSS and JS -->

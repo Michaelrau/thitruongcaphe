@@ -4,7 +4,7 @@ Contributors: webberzone, Ajay
 Donate link: https://ajaydsouza.com/donate/
 Stable tag: trunk
 Requires at least: 4.1
-Tested up to: 4.9
+Tested up to: 5.0
 License: GPLv2 or later
 
 Track daily and total visits on your blog posts. Display the count as well as popular and trending posts.
@@ -164,6 +164,12 @@ add_filter( 'manage_edit-projects_sortable_columns', 'tptn_column_register_sorta
 
 
 == Changelog ==
+
+= 2.5.5 =
+
+* Bug fixes:
+	* Fixed missing semi-colon in tracker code
+	* Multi-site tracking failed in old installs where the PRIMARY KEY was not properly updated in the database. DB version has been updated to 6.0 to initiate primary key across all installs
 
 = 2.5.4 =
 

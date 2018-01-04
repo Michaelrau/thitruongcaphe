@@ -6,7 +6,7 @@ Email: diana@burduja.eu
 Tags: CSS, JS, javascript, custom CSS, custom JS, custom style, site css, add style, customize theme, custom code, external css, css3, style, styles, stylesheet, theme, editor, design, admin
 Requires at least: 3.0.1
 Tested up to: 4.9
-Stable tag: 3.10 
+Stable tag: 3.12 
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -115,7 +115,17 @@ $. Add/Edit HTML
 
 == Changelog ==
 
+= 3.12 =
+* 01/03/2018
+* Reverse to the `wp_footer` function for the footer scripts, as the `print_footer_scripts` function is used also in the admin, which lead to many broken back-ends
+
+= 3.11 =
+* 01/03/2018
+* Use the `print_footer_scripts` function for the footer scripts (https://wordpress.org/support/topic/footer-code-position-before-external-scripts-is-overridden/)
+* Escape selectively the HTML characters in the editor (https://wordpress.org/support/topic/annoying-bug-in-text-editor/)
+
 = 3.10 =
+* 12/15/2017
 * Fix: https://wordpress.org/support/topic/broken-layout-of-code-snippet-type-color-tag-css-html-js-on-main-list-table/
 * Feature: add filter by code type
 * Feature: make the 'Modified' column sortable

@@ -70,17 +70,23 @@ $index = 0;
 				</div> 	
 			</div>
 
-			<div id="block-bgtk" class="container">
-				<?php get_template_part( 'template-parts/content', 'block-prices' );?>
+			<div id="primary-middle" class="container">
+		 		<div class="header">
+				 	<h2>Bảng Giá Tham Khảo Thị Trường Cà Phê</h2>
+				</div>
+		 		
+				<div class="content">
+				 	<?php get_template_part( 'template-parts/content', 'block-prices' );?>	
+				</div>				
 			</div>	
 			
-			<div id="primary-bottom" class="bottom-content-area">
-							
-				<div class="main-categories">
-						
-					
-														
-				</div>																						
+			<div id="primary-bottom" class="container">
+				<div class="header">
+					<h2>Bảng Tin Gần Đây</h2>
+				</div>
+				<div class="content">
+					<?php echo do_shortcode('[recent_post_slider limit="15" category=”4” show_author=”false” design=”design-4″ content_words_limit=”30″]'); ?> 				
+				</div>
 			</div><!-- #primary -->
 
 		<?php else : ?>

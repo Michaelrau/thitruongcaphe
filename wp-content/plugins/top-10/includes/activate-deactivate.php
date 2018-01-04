@@ -67,7 +67,6 @@ function tptn_single_activate() {
 		require_once ABSPATH . 'wp-admin/includes/upgrade.php';
 		dbDelta( $sql );
 
-		add_site_option( 'tptn_db_version', $tptn_db_version );
 	}
 
 	if ( $wpdb->get_var( "show tables like '$table_name_daily'" ) != $table_name_daily ) { // WPCS: unprepared SQL OK.
@@ -83,40 +82,37 @@ function tptn_single_activate() {
 		require_once ABSPATH . 'wp-admin/includes/upgrade.php';
 		dbDelta( $sql );
 
-		add_site_option( 'tptn_db_version', $tptn_db_version );
 	}
+
+	add_site_option( 'tptn_db_version', $tptn_db_version );
 
 	// Upgrade table code.
 	$installed_ver = get_site_option( 'tptn_db_version' );
 
 	if ( $installed_ver != $tptn_db_version ) {
 
-		$wpdb->hide_errors();
+		$sql = 'ALTER TABLE ' . $table_name . ' DROP PRIMARY KEY ';
+		$wpdb->query( $sql );
+		$sql = 'ALTER TABLE ' . $table_name_daily . ' DROP PRIMARY KEY ';
+		$wpdb->query( $sql );
 
-		switch ( $installed_ver ) {
+		$sql = 'CREATE TABLE ' . $table_name . " (
+			postnumber bigint(20) NOT NULL,
+			cntaccess bigint(20) NOT NULL,
+			blog_id bigint(20) NOT NULL DEFAULT '1',
+			PRIMARY KEY  (postnumber, blog_id)
+			);";
 
-			case '4.0':
-			case 4.0:
-				$wpdb->query( 'ALTER TABLE ' . $table_name . " CHANGE blog_id blog_id bigint(20) NOT NULL DEFAULT '1'" ); // WPCS: unprepared SQL OK.
-				$wpdb->query( 'ALTER TABLE ' . $table_name_daily . " CHANGE blog_id blog_id bigint(20) NOT NULL DEFAULT '1'" ); // WPCS: unprepared SQL OK.
-				break;
+		$sql .= 'CREATE TABLE ' . $table_name_daily . " (
+			postnumber bigint(20) NOT NULL,
+			cntaccess bigint(20) NOT NULL,
+			dp_date DATETIME NOT NULL,
+			blog_id bigint(20) NOT NULL DEFAULT '1',
+			PRIMARY KEY  (postnumber, dp_date, blog_id)
+		);";
 
-			default:
-				$wpdb->query( 'ALTER TABLE ' . $table_name . ' MODIFY postnumber bigint(20) ' ); // WPCS: unprepared SQL OK.
-				$wpdb->query( 'ALTER TABLE ' . $table_name_daily . ' MODIFY postnumber bigint(20) ' ); // WPCS: unprepared SQL OK.
-				$wpdb->query( 'ALTER TABLE ' . $table_name . ' MODIFY cntaccess bigint(20) ' ); // WPCS: unprepared SQL OK.
-				$wpdb->query( 'ALTER TABLE ' . $table_name_daily . ' MODIFY cntaccess bigint(20) ' ); // WPCS: unprepared SQL OK.
-				$wpdb->query( 'ALTER TABLE ' . $table_name_daily . ' MODIFY dp_date DATETIME ' ); // WPCS: unprepared SQL OK.
-				$wpdb->query( 'ALTER TABLE ' . $table_name . ' DROP PRIMARY KEY, ADD PRIMARY KEY(postnumber, blog_id) ' ); // WPCS: unprepared SQL OK.
-				$wpdb->query( 'ALTER TABLE ' . $table_name_daily . ' DROP PRIMARY KEY, ADD PRIMARY KEY(postnumber, dp_date, blog_id) ' ); // WPCS: unprepared SQL OK.
-				$wpdb->query( 'ALTER TABLE ' . $table_name . " ADD blog_id bigint(20) NOT NULL DEFAULT '1'" ); // WPCS: unprepared SQL OK.
-				$wpdb->query( 'ALTER TABLE ' . $table_name_daily . " ADD blog_id bigint(20) NOT NULL DEFAULT '1'" ); // WPCS: unprepared SQL OK.
-				$wpdb->query( 'UPDATE ' . $table_name . ' SET blog_id = 1 WHERE blog_id = 0 ' ); // WPCS: unprepared SQL OK.
-				$wpdb->query( 'UPDATE ' . $table_name_daily . ' SET blog_id = 1 WHERE blog_id = 0 ' ); // WPCS: unprepared SQL OK.
-
-		}
-
-		$wpdb->show_errors();
+		require_once ABSPATH . 'wp-admin/includes/upgrade.php';
+		dbDelta( $sql );
 
 		update_site_option( 'tptn_db_version', $tptn_db_version );
 	}
